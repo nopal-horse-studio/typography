@@ -13,6 +13,7 @@
 * letter-spacing: 16px
 
 
+### Color text
 * text-stroke: 1.5px var(--color-text);
 * text-fill-color: transparent;
 * color: transparent
